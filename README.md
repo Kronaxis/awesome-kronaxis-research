@@ -26,7 +26,7 @@ Each piece works alone. Together they cover what a synthetic-population research
 - **A — Acuity**: platform fluency, digital nativeness
 - **I — Impulsivity**: delay discounting, reward sensitivity
 
-Spec is CC BY 4.0; reference implementations (Python and Go) are BSL 1.1.
+Published as an open specification under CC BY 4.0. Free to cite, implement, and extend in your own work.
 
 | Use it for | Don't use it for |
 |---|---|
@@ -91,14 +91,14 @@ This is what makes the rest of the stack viable economically. Running 65,000-per
 
 ## Licenses
 
-| Project | Spec | Code |
-|---|---|---|
-| DYNAMICS-8 | CC BY 4.0 | BSL 1.1 (converts to Apache 2.0 after 5 years) |
-| Panel Studio | n/a | BSL 1.1 (converts to Apache 2.0 after 5 years) |
-| KPM-1 predictions | (predictions are public for verification) | Model proprietary |
-| Kronaxis Router | n/a | Apache 2.0 |
+| Project | Licence |
+|---|---|
+| DYNAMICS-8 | CC BY 4.0 (specification) |
+| Panel Studio | BSL 1.1 (converts to Apache 2.0 after 5 years) |
+| KPM-1 predictions | Public for verification; the model itself is proprietary |
+| Kronaxis Router | Apache 2.0 |
 
-BSL 1.1 means: free for internal non-commercial use; commercial deployments need a licence. Contact `jason@kronaxis.co.uk`.
+BSL 1.1 means: free for internal non-commercial use; commercial deployments need a licence. Contact `jason@kronaxis.co.uk` for commercial enquiries.
 
 ---
 
