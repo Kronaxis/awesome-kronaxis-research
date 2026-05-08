@@ -1,6 +1,23 @@
-# The Kronaxis Research Stack
+<p align="center">
+  <img src="assets/kronaxis-icon.svg" width="64" height="64" alt="Kronaxis">
+</p>
 
-> **Synthetic populations that behave like real people, end-to-end open source.** Four projects, one coherent stack: psychographic framework → simulation engine → public falsifiable forecast → cost-efficient inference at scale.
+<h1 align="center">The Kronaxis Research Stack</h1>
+
+<p align="center">
+  <strong>Synthetic populations that behave like real people, end-to-end open source.</strong>
+</p>
+
+<p align="center">
+  <a href="https://kronaxis.co.uk">Website</a> &middot;
+  <a href="https://kronaxis.co.uk/research">Research portfolio</a> &middot;
+  <a href="https://kronaxis.co.uk/methodology">Methodology</a> &middot;
+  <a href="https://kronaxis.co.uk/election-results">Live election results</a>
+</p>
+
+---
+
+Four projects, one coherent stack: psychographic framework → simulation engine → public falsifiable forecast → cost-efficient inference at scale.
 
 This repository is a single-page index. Each section explains one of the four projects, why it exists, and how it fits into the loop.
 
