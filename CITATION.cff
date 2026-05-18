@@ -1,0 +1,64 @@
+cff-version: 1.2.0
+message: >-
+  If you reference the Kronaxis research stack, please cite the underlying
+  preprints. DYNAMICS-8 is the personality framework; KPM v17.10 is the
+  current production election-forecasting methodology that builds on top.
+type: software
+title: "awesome-kronaxis-research — The Kronaxis Research Stack"
+abstract: >-
+  An index repository for the Kronaxis research stack: the DYNAMICS-8
+  personality framework, the Panel Studio synthetic-panel engine, the
+  KPM-1 pre-registered election projections, the Kronaxis Polling Method
+  (KPM v15.1 + v17.10), and the Kronaxis Router LLM infrastructure.
+  Provides a single entry point with descriptions, DOIs, and links for
+  researchers landing here.
+authors:
+  - family-names: "Duke"
+    given-names: "Jason"
+    affiliation: "Kronaxis Limited"
+    email: "jason@kronaxis.co.uk"
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+repository-code: "https://github.com/Kronaxis/awesome-kronaxis-research"
+keywords:
+  - "synthetic personas"
+  - "personality framework"
+  - "election forecasting"
+  - "DYNAMICS-8"
+  - "KPM"
+  - "Kronaxis research stack"
+  - "research index"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19361059"
+    description: "The DYNAMICS-8 personality framework preprint."
+  - type: doi
+    value: "10.5281/zenodo.20273978"
+    description: "The KPM v17.10 methodology paper."
+references:
+  - type: article
+    title: "DYNAMICS-8: An Eight Dimension Personality Framework for Computational Behavioural Simulation"
+    authors:
+      - family-names: "Duke"
+        given-names: "Jason"
+        affiliation: "Kronaxis Limited"
+    year: 2026
+    month: 4
+    publisher:
+      name: "Zenodo"
+    doi: "10.5281/zenodo.19361059"
+    url: "https://doi.org/10.5281/zenodo.19361059"
+    license: "CC-BY-4.0"
+  - type: article
+    title: "The Kronaxis Polling Method: A Pre-Registered, Hash-Anchored, Ward-Level Methodology for English Local Council Election Forecasting"
+    authors:
+      - family-names: "Duke"
+        given-names: "Jason"
+        affiliation: "Kronaxis Limited"
+    year: 2026
+    month: 5
+    publisher:
+      name: "Zenodo"
+    doi: "10.5281/zenodo.20273978"
+    url: "https://doi.org/10.5281/zenodo.20273978"
+    license: "CC-BY-4.0"
